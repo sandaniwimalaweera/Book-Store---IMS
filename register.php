@@ -210,7 +210,7 @@ if(isset($_POST['submit'])){
               <li class="twitter"><a href=""><i class="fa-brands fa-square-twitter" style="font-size:20px;"></i>  bookstorelk</a></li>
               </ul>
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    <p>© 2023 Bookstore.lk <br>
+    <p> 2024 Bookstore.lk <br>
     Designed and Developed by Group 13</p> 
   </div>
 </footer>
