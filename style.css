@@ -1,0 +1,90 @@
+
+.footer {
+font-family: Arial, sans-serif;
+}
+
+.footer .btn {
+margin: 10px 0;
+font-weight: bold;
+}
+ul.socialIcons {
+padding:2px ;
+text-align: center;
+}
+
+.socialIcons li {
+
+list-style: none;
+display: inline-block;
+margin: 10px;
+border-radius: 50%;
+overflow: hidden;
+}
+
+.socialIcons li a {
+display: block;
+padding: 0.5em;
+min-width: 2em;
+max-width: .28571429em;
+height: 2.28571429em;
+white-space: nowrap;
+line-height: 1.5em; /*it's working only when you write text with icon*/
+transition: 0.5s;
+text-decoration: none;
+font-family: arial;
+color: #fff;
+}
+
+.socialIcons li i {
+margin-right: 0.5em;
+}
+
+.socialIcons li:hover a {
+max-width: 200px;
+padding-right: 1em;
+}
+
+.socialIcons .facebook {
+background-color: #3b5998;
+box-shadow: 0 0 16px #3b5998;
+}
+
+.socialIcons .twitter {
+background-color: #00aced;
+box-shadow: 0 0 16px #00aced;
+}
+
+.socialIcons .instagram {
+background-color: #cd486b;
+box-shadow: 0 0 16px #cd486b;
+}
+
+body{
+  background-color: #ecebeb;
+}
+.navbar{
+    background-color:darkblue;
+}
+.navbar-nav .nav-link {
+  color: white;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+.navbar-brand {
+  font-family: 'Proxima Nova', sans-serif;
+  color: white;
+  font-size: 27px;
+}
+     .navbar-nav .nav-item {
+  margin-right: 15px; /* Adjust the space between items */
+}
+
+.navbar-nav .nav-item:last-child {
+  margin-right: 0; /* Remove margin from the last item */
+}
+
+.navbar-nav .btn {
+  margin-right: 10px; /* Add margin between buttons */
+}
+
+
