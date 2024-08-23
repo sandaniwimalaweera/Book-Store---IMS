@@ -1,7 +1,7 @@
 <?php require_once('connection/connection.php'); ?>
 <?php 
 $username='admin';
-$password='itdlh1234';
+$password='1234';
 $hashed_password=sha1($password);
  
 //$query="INSERT INTO login(username,password,date)VALUES('{$user}','{$hashed_password}')";
